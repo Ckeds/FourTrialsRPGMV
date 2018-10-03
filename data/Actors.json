@@ -1,4 +1,4 @@
 [
 null,
-{"id":1,"battlerName":"Custom1","characterIndex":0,"characterName":"Custom1","classId":2,"equips":[0,0,0,18],"faceIndex":0,"faceName":"Custom1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Player","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"Custom1","characterIndex":0,"characterName":"Custom1","classId":2,"equips":[0,0,0,0],"faceIndex":0,"faceName":"Custom1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Player","nickname":"","note":"","profile":""}
 ]
